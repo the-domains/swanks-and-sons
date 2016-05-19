@@ -1,0 +1,28 @@
+name: 'Swanks & Sons '
+favicon: null
+layout_spectrum: 0.7716839746572077
+typography_spectrum: 0.4629274813923985
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6805073139257729
+  lightness: 0.47413220978341997
+  saturation: 0.5905355883296579
+  rhythmicContrast: 0.393472010968253
+purpose: []
