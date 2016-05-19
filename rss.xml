@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Swanks & Sons ]]></title>
         <description><![CDATA[Swanks & Sons ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/swanks-and-sons/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 16:30:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 19 May 2016 16:38:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/swanks-and-sons/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welcome to Swanks & Sons Chrome Shop! S&S Chrome is a family owned Chrome & Trucking accessories shop located in the heart of the Derby city, Louisville KY.</p>]]></description>
-            <link>undefinedwelcome-to-swanks-and-sons-chrome-shop-sands-chrome-is-a-family/index.html</link>
+            <link>https://thegrid.ai/swanks-and-sons/welcome-to-swanks-and-sons-chrome-shop-sands-chrome-is-a-family/index.html</link>
             <guid isPermaLink="false">1d4f157b-6965-4243-ba24-af908c1b357e</guid>
-            <pubDate>Thu, 19 May 2016 16:30:38 GMT</pubDate>
+            <pubDate>Thu, 19 May 2016 16:38:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
