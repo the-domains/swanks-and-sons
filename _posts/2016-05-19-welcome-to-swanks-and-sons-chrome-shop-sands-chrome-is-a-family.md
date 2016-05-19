@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Welcome to Swanks & Sons Chrome Shop! S&S Chrome is a family owned Chrome & Trucking accessories shop located in the heart of the Derby city, Louisville KY.'
-datePublished: '2016-05-19T16:47:44.792Z'
-dateModified: '2016-05-19T16:46:12.200Z'
+datePublished: '2016-05-19T16:49:05.038Z'
+dateModified: '2016-05-19T16:47:52.541Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-19-welcome-to-swanks-and-sons-chrome-shop-sands-chrome-is-a-family.md
